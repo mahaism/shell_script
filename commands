@@ -1,0 +1,2 @@
+How can I avoid SSH's host verification for known hosts?
+ssh -o "StrictHostKeyChecking no" user@host
